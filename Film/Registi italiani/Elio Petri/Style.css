@@ -1,0 +1,11 @@
+.Titolo-film {
+    background-color: white;
+    width: 560px;
+    text-align: center;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
